@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Fuzail96
+- 👋 Hi, I’m @Fuzail
 - 👀 I’m interested in API development and deployment.
 - 🌱 I’m still learning ...
 - 💞️ I’m looking to collaborate on Python/GenAI developments.
